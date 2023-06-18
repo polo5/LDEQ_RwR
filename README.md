@@ -36,7 +36,7 @@ NB: if `opencv` gives weird errors, `pip uninstall opencv-python` and then `pip 
 ### WFLW-V download
 
 ### Option 1 (Easy)
-Coming up
+Someone has kindly uploaded the official dataset in his name [here](https://github.com/polo5/LDEQ_RwR/issues/2). I made sure this is the same version I used for the results in the paper
 
 ### Option 2 (Hard)
 While all videos used in WFLW-V have creative commons licences, nvidia has stricter internal privacy rules.
